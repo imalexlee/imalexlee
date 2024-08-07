@@ -1,9 +1,15 @@
-## Hi there 👋
+### Hi there 👋
 
+**GPU programming and low-level optimization zealot ⚡**
+
+4th year undergraduate student at the Georgia Tech College of Computing
+
+- ⚙️ Daily drivers: `CPP`, `C`, `Vulkan API`, `x86-64 ASM`
+- 🌱 I teach graphics and performance oriented computing [here!](https://www.youtube.com/@alex_d_lee)
+- 🕑 History of building and optimizing React Native applications for [buisness](https://www.linkedin.com/feed/update/urn:li:activity:7102050969965711360/) and [HCI research](https://www.linkedin.com/feed/update/urn:li:activity:7225908690908786688/)
+- 📫 Reach Out! `alexdlee1217@gmail.com`
 <!--
-**imalexlee/imalexlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
