@@ -4,7 +4,7 @@
 
 4th year undergraduate student at the Georgia Tech College of Computing
 
-- ⚙️ What I use: `CPP`, `C`, `Vulkan API`, `x86-64 ASM`
+- ⚙️ What I use: `CPP`, `C`, `Vulkan API`
 - 🌱 I teach graphics and performance oriented computing [here!](https://www.youtube.com/@alex_d_lee)
 - 🕑 History of building and optimizing React Native applications for [buisness](https://www.linkedin.com/feed/update/urn:li:activity:7102050969965711360/) and [HCI research](https://www.linkedin.com/feed/update/urn:li:activity:7225908690908786688/)
 - 📫 Reach Out! `alexdlee1217@gmail.com`
