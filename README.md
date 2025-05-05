@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-**GPU programming and low-level optimization zealot ⚡**
+**GPU and low-level programming⚡**
 
-4th year undergraduate student at the Georgia Tech College of Computing
+Masters student at the Georgia Institute Of Technology.\
+*Computer Science specializing in Computer Graphics*
 
 - ⚙️ What I use: `CPP`, `C`, `Vulkan API`
 - 🌱 I teach graphics and performance oriented computing [here!](https://www.youtube.com/@alex_d_lee)
