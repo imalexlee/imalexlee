@@ -2,7 +2,7 @@
 
 **GPU and low-level programming⚡**
 
-Masters student at the Georgia Institute Of Technology.\
+Graphics programmer at The Forge Interactive Inc. and masters student at the Georgia Institute Of Technology.\
 *Computer Science specializing in Computer Graphics*
 
 - ⚙️ What I use: `CPP`, `C`, `Vulkan API`
